@@ -6,3 +6,7 @@ function HolaMundo(){
 function Miguel(){
 	console.log("Miguel");
 }
+
+function V2(){
+	
+}
